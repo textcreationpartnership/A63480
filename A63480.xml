@@ -1,0 +1,158 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An epistle to Friends in the truth</title>
+            <author>Taylor, Christopher, ca. 1615-1686.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1675</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A63480</idno>
+            <idno type="STC">Wing T263</idno>
+            <idno type="STC">ESTC R6565</idno>
+            <idno type="EEBO-CITATION">11966583</idno>
+            <idno type="OCLC">ocm 11966583</idno>
+            <idno type="VID">51724</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A63480)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 51724)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 827:11)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An epistle to Friends in the truth</title>
+                  <author>Taylor, Christopher, ca. 1615-1686.</author>
+               </titleStmt>
+               <extent>7 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1675]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Duke University Library.</note>
+                  <note>Caption title.</note>
+                  <note>Signed: Christopher Taylor"</note>
+                  <note>"Written at Waltham in Essex, the 8th of the 11th moneth, 1675."</note>
+                  <note>Wing notes imprint date as 1676.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Society of Friends --  Doctrines.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-11</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2011-11</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:51724:1"/>
+            <pb n="1" facs="tcp:51724:1" rendition="simple:additions"/>
+            <head>AN Epiſtle to Friends IN THE TRUTH.</head>
+            <opener>
+               <salute>Dear Friends,</salute>
+            </opener>
+            <p>ALL Love one another in the Light and Life of Jeſus Chriſt our Saviour, that forever you may be the Children of the Light; for in the Light you firſt received Living Authority and Power to ſtand againſt the Enemy of your Souls, and ſo'came to be true Believers in the Name of the Lord Jeſus, and to fight the good Fight of Faith in the Lamb's War, and obtain the Victory over Hell and Death, as many as have obeyed the Lord, and been faithful to his Requirings; ſo that ſuch are become Teach<g ref="char:EOLhyphen"/>ers of others in the Light, to direct and turn them to the Power of God. Now, dear Friends, Hold faſt your Con<g ref="char:EOLhyphen"/>fidence here, in Believing in the Name of the Lord Jeſus; be True-hearted in the Power, that you may be kept Blame<g ref="char:EOLhyphen"/>leſs and Pure in the Light, alwayes capable of the Teach<g ref="char:EOLhyphen"/>ings of the Lord: For Friends, it is the Lord alone that hath taught us to profit, and hath let us ſee his Way, as we have ſtood in his Counſel, and hath put our Enemies under us, and we reſt ſweetly and ſafely with great Delight under the Shadow of the Almighty; Glory to his Name forever, all Praiſes for evermore, who dwelleth on High, and hath given Spiritual Gifts to his Faithful Children, and is come
+<pb facs="tcp:51724:2"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="1" facs="tcp:51724:2" rendition="simple:additions"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="2" facs="tcp:51724:3"/>through the Clouds in this Day with great Power, and is ſetting up his own Authority in the Earth, that every Tongue may confeſs and every Knee bow to it, and the Mighty Great God is with us in our Aſſemblies and Meetings, when we come together in his Name, in his Ser<g ref="char:EOLhyphen"/>vic; his Preſence fills our Meetings, and his Power im<g ref="char:EOLhyphen"/>powers us for the Work he hath for us to do, he hath not failed us at any time, as we have ſtood in his Counſel, and been diligent in our places to do his Will; but as a mighty clear Fountain he hath opened unto us, and directed us what we ſhould do in his Name.</p>
+            <p>Therefore this is my Exhortaion to you, dear Friends, Cleave to your Services in your ſeveral Places, both Men and Women; let nothing daunt you, nor diſcourage you from performing your Duty to God in what you are called unto: You know the Power of God to be with you, who are faithful, to arm you and defend you againſt the Power of Satan, and all his <hi>wayes,</hi> and <hi>devices,</hi> and <hi>turnings</hi> what<g ref="char:EOLhyphen"/>ſoever; the Lord is with you, and his Deſign is to arm you more and more with his Armour of Strength and Wiſdom, and to encourage you, and make you Valiant in his Name, that you may be freſh and lively, to hear the lively Voice of your Captain and Biſhop of your Souls, Chriſt Jeſus: Oh! ſhall he not go on who hath ſo gloriouſly begun to Rule, and to take the Kingdom? What a Pattern hath he ſhewn of his bleſſed Reign and Government out of his Holy Mount, even to the Admiration of thoſe who behold it? Light, Light, a Day of Light and Glory is ariſen and ariſing, the God of Heaven is ſetting up his Kingdom over all, and giving the Spirit of Right Government unto his Sons and Daughters, that they may be Wiſe-hearted and Learned, to walk in his VViſdom; and be grave and ſober, as Pat<g ref="char:EOLhyphen"/>terns in their Places, to receive God's living Oracles from his own Mouth, to diſpenſe them in every ſervice, according to the End for which they are appointed.</p>
+            <pb n="3" facs="tcp:51724:3"/>
+            <p>T<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>is is the Standard we are to be kept unto, and the Ban<g ref="char:EOLhyphen"/>ner we are to fight under; for the Lord fights for us, who will not give his Glory to another, nor give away his Right to Reign; For who can put him down? And as we cleave unto him, who can diſinherit us, as we keep to the Noble Principle of God in Humility, fixed in the Life of Immor<g ref="char:EOLhyphen"/>tality in Chriſt Jeſus, where none can take our Crown, nor Hell or Death prevail againſt our Faith? But if we turn from this Holy Power of God, to ſet up our own Fancies inſtead of it, and reſiſt the Power, then though we have been on God's holy <hi>Mount,</hi> and in his <hi>Garden,</hi> and have walked up and down in the midſt of the Stones of Fire, and been ſet by God as covering Cherubs whilſt ſtanding in the Power and precious Life of the dear Lord Jeſus; yet in exalting above the Power, and the Simplicity of it, this State is dangerous and falling, and the Power and Life a<g ref="char:EOLhyphen"/>bides forever, and will ſtand forever, and the Courts of Heaven will prevail; and what is done there will ſtand amongſt the Faithful, and never be blotted out; for God is exalting his own Name above every Name that is named, and is ſtill prevailing in his Heavenly Wiſdom; and the Glory of his Houſe is ſeen, that he is ſetting up, and the greater then <hi>Solomon</hi> is the Builder and Framer thereof, by that Eternal Word that built all Things in the Begin<g ref="char:EOLhyphen"/>ning, and the Inſtruments and Workmen in the Hand of the Lord are his Saints, and faithful Worſhippers, who magnifie his Name, and admire the Glory of his Preſence; for when they come to preſent themſelves before the Lord to be exerciſed in his Service, he gives them pure VViſ<g ref="char:EOLhyphen"/>dom, &amp; doth not fail his grave and ſober Ones who ſeek his Glory; but arms them, and defends them by his Power to ſtand his faithful VVitneſſes.</p>
+            <p>They are no Dreamers who keep in the Power, nor ſilly VVomen to be captivated in Ignorance; but they go forth
+<pb n="4" facs="tcp:51724:4"/>in the Strength of God, and are Conquerors for God, and triumph in the Holy Power, where Victory is obtained: Theſe are the Elders and Servants of God in his Work and Service, in their Places; their Counſels he hath bleſſed, and their Hearts he hath ſtrengthened every where to a ho<g ref="char:EOLhyphen"/>ly Life and Government in themſelves, and they are ready to do good unto others, daily waiting for the pure Open<g ref="char:EOLhyphen"/>ings of Life in the Croſs of Chriſt: let none hurt theſe, nor diſcourage theſe in any of their faithful Services in the Truth, nor ſleight their <hi>work</hi> whom <hi>God hath choſen</hi> &amp; <hi>found out for himſelf,</hi> and impowered with the Gift of his Wiſdom, and fortified with his Strength; who return Praiſes to God, when they have reaped and done the Heavenly VVill.</p>
+            <p>Bleſſed be the Lord God for his great VViſdom, in ma<g ref="char:EOLhyphen"/>naging his own <hi>bleſſed work</hi> by his own Power &amp; Defence; for he hath gathered many precious Meetings of his People; and as his Power and Work prevaileth amongſt them, he makes them to know their Places and Services in the Body; thus he hath wiſely appointed our <hi>Men</hi> and <hi>Women's Meet<g ref="char:EOLhyphen"/>ings</hi> to be kept in his Life and living Authority, to keep Unity, and to keep out the Enemy and his Work from be<g ref="char:EOLhyphen"/>ing owned amongſt us, but teſtified againſt in the Power of the dear Lord Jeſus, to the ſtopping of the mouthes of our Blaſphemous Enemies, who watch for Evil, and to charge Wickedneſs on the Truth and the Friends of it; therefore do we ſtand for God, and witneſs for him againſt the Evil &amp; diſorderly VValking in any who profeſs Truth; and ſuch things are and ought to be inquired into; and ſuch VViſdom the Lord doth guide and is guiding his Faithful Children in, that they may have in a Readineſs wherewith to ſtop the mouthes of their Slanderous Enemies upon all Occaſions: So that the weighty Service of theſe <hi>Meetings</hi> is known to them who are exerciſed therein; and what a bleſſed Preſence of God does go along with ſuch <hi>Meetings,</hi>
+               <pb n="5" facs="tcp:51724:4"/>there are many VVitneſſes; for the Power being kept unto, it is impoſſible there ſhould be formality, or Form without Power in any of our <hi>Meetings</hi> whatſoever, but clear Life and the Dominion of the Lord Jeſus himſelf, the Teacher and Lawgiver.</p>
+            <p>And ſuch <hi>Meetings</hi> are the chief means to keep out For<g ref="char:EOLhyphen"/>mality, or Form without Spirit and Power, and to keep out the unclean Apoſtatizing Spirit; for that which goes from the Power of God apoſtatizes into Evil: but in meet<g ref="char:EOLhyphen"/>ing to wait upon God we know was the good Exhortation in the Beginning, and the Holy Spirit of Life and Power came upon us, and filled our Hearts, and ſtrengthened our Souls to Salvation; it is a Heavenly State, and State above all other States in this Life, when we approach unto the Lord in all our <hi>Meetings,</hi> to wait upon him, out of the Ex<g ref="char:EOLhyphen"/>erciſe and Cumber of other matters, to be ſolaced and de<g ref="char:EOLhyphen"/>lighted together with the Preſence of God only, comfor<g ref="char:EOLhyphen"/>ted and ſtrengthened one in another, the moſt Pure Hea<g ref="char:EOLhyphen"/>venly State to the Faithful of all States &amp; Conditions here, and the freeſt to enjoy the Lord's pure Preſence; thus it is in all our <hi>Meetings</hi> and <hi>Comings together</hi> in the Lord, a per<g ref="char:EOLhyphen"/>fect Bulwark againſt the Devil and his Kingdom; and the Encreaſe of his Government will more and more be known here, until we come to that <hi>Everlaſting Meeting</hi> in Chriſt Jeſus when Time ſhall be no more.</p>
+            <p>And the Faithful in all Meetings and Places will do faithfully, and the Preſence of the Lord Jeſus is with them over all; but the Diſobedient have not (nor can have) their Lot in this Matter, until they come into Faithfulneſs, and then they will know, <hi>that the God of Power and Life, Heaven<g ref="char:EOLhyphen"/>ly Vertue and Wiſdom, is with his People in all their Meetings,</hi> of which there will be a great Increaſe.</p>
+            <p>And all Good Spirits will bleſs the <hi>Meetings</hi> of the <hi>faith<g ref="char:EOLhyphen"/>ful,</hi> and not reflect upon them; but will ſee upon every
+<pb n="6" facs="tcp:51724:5"/>neceſſary Occaſion relating to Truth, what Need there is of <hi>meeting to wait upon the Lord for Wiſdom and Counſel from him,</hi> that every Deciſion may be by the Counſel of the Lord alone opened in his Servants, to judge for Jeſus Chriſt, unto whom all Judgment is committed, whoſe true Judgment will reſt upon the beloved faithful People, that ſo it will wholely be the Meaſuring of God in all things in all, to his Glory forever and evermore.</p>
+            <p>Ah dear Friends, ſalute one another with this holy Kiſs in the pure holy Life, Counſel, Spirit and VViſdom of Je<g ref="char:EOLhyphen"/>ſus, that your Lips may forever praiſe that God who hath brought ſuch great and mighty Things to paſs, in this Day of his Power: My Tongue cannot expreſs theſe Mighty Wonderful Things the Lord is doing for his People, and the Glory he is revealing: Oh this Mighty, Ancient, Bleſ<g ref="char:EOLhyphen"/>ſed Power of God, which we have ſo largely taſted of; Honour be to his Name for evermore, who hath thus loved us, to pour his Spirit upon us, and give us to live to behold ſuch a <hi>Glorious Day</hi> as this: Oh! ariſe, and ſhine forth more and more, dear Hearts, and come out of all that's viſible, to be united in the inviſible Power of Jeſus, that we may be<g ref="char:EOLhyphen"/>hold one another here, in that Love that is everlaſtingly Pure and Chaſte forever.</p>
+            <p>The <hi>Apoſtacy</hi> came in in the Primitive Times, by going from the Spirit of the dear Lord Jeſus, and then they be<g ref="char:EOLhyphen"/>came Proud, Conceited and Self-ended, and ſet up them<g ref="char:EOLhyphen"/>ſelves, and their own Corrupt Judgments, and became Formal and Corrupt in all their Meetings and Counſels, a<g ref="char:EOLhyphen"/>buſing the Power of God, ſetting up their own Wiſdom and Formal Spirit againſt it, and ſo departed from that primitive Purity that ſhone forth in the Apoſtles &amp; their Councils: So here was meer Formality indeed, and the bleſſed ancient Services of the true Apoſtles contemned, and their Work deſpiſed; thus came in the Apoſtacy, and the Earth got in,
+<pb n="7" facs="tcp:51724:5"/>and the Earthly Dark Spirit; but they that kept to the Power, were kept in the Good Order, atop of the <hi>Apoſtacy,</hi> and did not fall nor apoſtatize.</p>
+            <p>And ſo now, they that keep to the Power of the Lord Jeſus, it is the ſame, the Care and Overſight of all is com<g ref="char:EOLhyphen"/>mitted to them, and not to the Apoſtatizing Spirit, that goes from the Power: So in the Power is the Government and Good Order of Jeſus preſerved amongſt us, and the Counſel of God we find with us continued with a daily growth of Power and holy Wiſdom; ſo that Righteouſ<g ref="char:EOLhyphen"/>neſs and Holineſs is running down like a mighty Stream; and what we have the ſenſe of, we are confirmed in, in the ſame bleſſed Principle that firſt convinced us, and wrought mightily in us; and our Hearts are to God without Guile or Straightneſs, that we may entirely ſerve him in all things, and not our ſelves; this is become the Delight of a choſen Remnant, who cannot forget his ancient Mercies ſealed to our Hearts; and we know by what Means and Power we ſtand and abide faithful to the Lord, to keep out the Ene<g ref="char:EOLhyphen"/>my from amongſt us, to be clear and ſound in the Judg<g ref="char:EOLhyphen"/>ment of the Lord Jeſus, that to nothing we may adhere or joyn to, but to the ſame Eternal Power and Spirit of God we firſt begun in; and here is our bleſſed Union and Fel<g ref="char:EOLhyphen"/>lowſhip preſerved in the Strength of the dear Lord Jeſus.</p>
+            <closer>Unto which that all may be kept waiting for Heavenly Wiſdom, Teaching, Counſel, Inſtruction and Direction in all Coun<g ref="char:EOLhyphen"/>ſels, Meetings, and upon all Occaſions, is the true Deſire of
+<signed>him, who is your Dear Brother and Fellow-Labourer in the Work of the Goſpel, <hi>Chriſtopher Taylor.</hi>
+               </signed>
+               <dateline>Written at <hi>Waltham</hi> in <hi>Eſſex,</hi>
+                  <date>the 8th of the 11th Moneth, 1675.</date>
+               </dateline>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
